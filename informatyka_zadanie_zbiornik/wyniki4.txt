@@ -1,0 +1,23 @@
+Zadanie 1:
+zadanie 1a: 88
+zadanie 1b: 73
+zadanie 1c: 22
+
+Zadanie 2: 
+Pierwsze dolanie wody: 6 maj 2015
+Ilość dolanej wody: 13172l
+
+Zadanie 3: Cena wody w każdym miesiącu: 
+kwiecień: 0zł
+maj: 154.64zł
+czerwiec: 1050.07zł
+lipiec: 2558.59zł
+sierpień: 3640.56zł
+wrzesień: 1323.97zł
+
+Zadanie 5:
+Najdłuższy okres bezdeszczowych dni gdzie temperatura rośnie: 5 dni
+Data okresu: 2 lipiec 2015 - 6 lipiec 2015
+
+Zadanie 6:
+Największy opad deszczu: 35.5l/m2
